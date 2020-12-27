@@ -1,0 +1,8 @@
+.reply{
+    border-left: 2px solid black;
+    background-color: white;
+    padding-left: 2%;
+}
+.reply>h5{
+    background-color: whitesmoke;
+}

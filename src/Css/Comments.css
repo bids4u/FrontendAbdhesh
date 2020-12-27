@@ -1,0 +1,11 @@
+.comments{
+    background-color: whitesmoke;
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+    margin-bottom:4px ;
+    padding: 2%;
+}
+.comments>h5{
+    background-color: white;
+    padding: 2%;
+}
